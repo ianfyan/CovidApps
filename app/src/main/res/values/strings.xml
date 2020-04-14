@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid-19 Apps</string>
+    <string name="sended">We Have Already Send \nAuthentication Code to Your Device. \nPlease Check Your Message son.</string>
+    <string name="sending">Please Wait \nWe will Send Authentication Code to Your Device.</string>
+    <string name="facebook_app_id">155618219131772</string>
+    <string name="fb_login_protocol_scheme">fb155618219131772</string>
+
+</resources>
