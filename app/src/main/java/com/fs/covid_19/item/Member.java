@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 public class Member implements Parcelable {
-    private String Name,Email,PhoneNumber,Password;
+    private String Name,Email,PhoneNumber,Password,MacAddress;
 
     public Member() {
     }
@@ -14,6 +14,7 @@ public class Member implements Parcelable {
         Email = in.readString();
         PhoneNumber = in.readString();
         Password = in.readString();
+        MacAddress = in.readString();
     }
 
     public static final Creator<Member> CREATOR = new Creator<Member>() {
@@ -60,6 +61,14 @@ public class Member implements Parcelable {
         Password = password;
     }
 
+    public String getMacAddress() {
+        return MacAddress;
+    }
+
+    public void setMacAddress(String macAddress) {
+        MacAddress = macAddress;
+    }
+
     @Override
     public int describeContents() {
         return 0;
@@ -71,5 +80,6 @@ public class Member implements Parcelable {
         parcel.writeString(Email);
         parcel.writeString(PhoneNumber);
         parcel.writeString(Password);
+        parcel.writeString(MacAddress);
     }
 }

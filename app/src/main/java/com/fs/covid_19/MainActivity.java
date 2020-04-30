@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 .anim.mytransition);
         image.startAnimation(anim);
         text.startAnimation(anim);
-        final Intent intent=new Intent(this, NewActivity.class);
+        final Intent intent=new Intent(this, BluetoothStartActivity.class);
         final Intent intentHome=new Intent(this, HomeActivity.class);
         Thread timer=new Thread(){
             public void run(){

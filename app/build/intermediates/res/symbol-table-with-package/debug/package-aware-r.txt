@@ -1251,7 +1251,9 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id button
 id buttonLogout
+id buttonPaired
 id buttonPanel
+id buttonScan
 id cancel_action
 id cancel_button
 id center
@@ -1291,6 +1293,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id devicesList
 id dimensions
 id direct
 id disableHome
@@ -1528,6 +1531,7 @@ layout activity_home
 layout activity_main
 layout activity_new
 layout activity_register
+layout activity_rekam
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout com_facebook_activity_layout

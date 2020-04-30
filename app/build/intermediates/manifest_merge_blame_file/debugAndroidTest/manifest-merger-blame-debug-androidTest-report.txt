@@ -3,31 +3,31 @@
 3    package="com.fs.covid_19.test" >
 4
 5    <uses-sdk
-5-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:5:5-74
+5-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:5:15-41
+6-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:5:42-71
+7-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:11:5-15:65
+9-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:11:5-15:65
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:11:22-76
+10-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:14:22-52
+11-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:13:22-53
+12-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:13:22-53
 13        android:label="Tests for com.fs.covid_19"
-13-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:15:22-63
+13-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:15:22-63
 14        android:targetPackage="com.fs.covid_19" />
-14-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:12:22-61
+14-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:12:22-61
 15
 16    <application android:debuggable="true" >
-16-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:7:5-9:19
-16-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:7:18-43
+16-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:7:5-9:19
+16-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:7:18-43
 17        <uses-library android:name="android.test.runner" />
-17-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:8:9-60
-17-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger7725582866601412285.xml:8:23-57
+17-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:8:9-60
+17-->D:\Kuliah\Android-Profiler-Materials\Covid19\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1085219940822150753.xml:8:23-57
 18    </application>
 19
 20</manifest>

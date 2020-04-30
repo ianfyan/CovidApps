@@ -4,7 +4,7 @@
             "outputFile": "D:\\Kuliah\\Android-Profiler-Materials\\Covid19\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\ef3735f249d625080779dd5445206e8f\\play-services-auth-18.0.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\63089b286b36dfc264ef71075be469df\\play-services-auth-18.0.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\34ef7ceb8fe0cbf10b5742ecbad34a1c\\appcompat-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

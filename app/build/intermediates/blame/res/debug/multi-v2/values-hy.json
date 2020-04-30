@@ -4,7 +4,7 @@
             "outputFile": "D:\\Kuliah\\Android-Profiler-Materials\\Covid19\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\0897e8f941a5d0a6bb4abc77e94f9b6e\\play-services-base-17.1.0\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\1d56e80736fb58d055c011f05efbc96d\\play-services-base-17.1.0\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\680dc24d147a09ca6030c74f2a01e7e9\\core-1.0.1\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5688",
+                        "endColumns": "100",
+                        "endOffsets": "5784"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\34ef7ceb8fe0cbf10b5742ecbad34a1c\\appcompat-1.0.2\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\1a17fac29413c9fe2a338b0e1eb93382\\jetified-play-services-basement-17.1.1\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\fcbb463ac08b8a7349cb116799e124e9\\jetified-play-services-basement-17.1.1\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,23 +69,6 @@
                         "startOffsets": "4003",
                         "endColumns": "209",
                         "endOffsets": "4208"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\usercomp\\.gradle\\caches\\transforms-2\\files-2.1\\2d42ef9e774e9ee6e52a44ee4b2740f7\\core-1.0.1\\res\\values-hy\\values-hy.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "48",
-                        "startColumns": "4",
-                        "startOffsets": "5688",
-                        "endColumns": "100",
-                        "endOffsets": "5784"
                     }
                 }
             ]
